@@ -3,19 +3,19 @@
 
 ### **Where innovative ideas orbit into powerful apps.**
 
-**AppCosmos** is a collaborative design and development initiative focused on creating the **official GeekHaven app**—from the very first idea to a fully interactive prototype 🚀.
+**AppCosmos** is a collaborative design and development initiative focused on creating the **official GeekHaven app**—from the very first idea to a fully interactive prototype.
 
 This repository exists to explore, experiment, and execute a complete app-building journey within the GeekHaven ecosystem.
 
 The goal of **AppCosmos** is simple yet ambitious: **to design the GeekHaven app from scratch, covering ideation, user research, UI/UX design, and high-fidelity prototyping** 🎯. Every decision here is driven by real student needs and the culture of a thriving tech society.
 
-AppCosmos serves as a creative space for designers and developers to collaborate 🤝—transforming concepts into structured flows, wireframes into polished screens, and ideas into meaningful user experiences ✨. It reflects how real-world products are built, step by step.
+AppCosmos serves as a creative space for designers and developers to collaborate transforming concepts into structured flows, wireframes into polished screens, and ideas into meaningful user experiences. It reflects how real-world products are built, step by step.
 
-In today’s digital world, technology alone isn’t enough—**clarity, usability, and experience define great products** 🔑. AppCosmos emphasizes clean design systems, intuitive interactions, and thoughtful UX, ensuring the GeekHaven app feels modern, purposeful, and engaging 🌟.
+In today’s digital world, technology alone isn’t enough—**clarity, usability, and experience define great products**. AppCosmos emphasizes clean design systems, intuitive interactions, and thoughtful UX, ensuring the GeekHaven app feels modern, purposeful, and engaging.
 
-### **Do you want to be part of a team that designs an app representing the innovation and spirit of GeekHaven—from zero to prototype?** 🌍
+### **Do you want to be part of a team that designs an app representing the innovation and spirit of GeekHaven—from zero to prototype?** 
 
-Welcome to **AppCosmos**—let’s design the universe together. 🌌
+Welcome to **AppCosmos**—let’s design the universe together.
 
 ## ✒Tech Stack:
 
@@ -38,7 +38,7 @@ Please follow the below guidelines while contributing to this project:
 
 ## Quick Resources:
 
-Since you have scrolled this far, here are some short resources to give you an edge over others😉:
+Since you have scrolled this far, here are some short resources to give you an edge over others:
 
 - [UX Principles](https://lawsofux.com/)
 - [UI/UX Crash Course](https://www.youtube.com/playlist?list=PLDtHAiqIa4wa5MBbE_XDoqY51sAkQnkjt)
