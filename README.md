@@ -3,11 +3,11 @@
 
 ### **Where innovative ideas orbit into powerful apps.**
 
-**AppCosmos** is a collaborative design and development initiative focused on creating the **official GeekHaven app**—from the very first idea to a fully interactive prototype.
+**AppCosmos** is a collaborative design and development initiative focused on creating the **official GeekHaven app** from the very first idea to a fully interactive prototype.
 
 This repository exists to explore, experiment, and execute a complete app-building journey within the GeekHaven ecosystem.
 
-The goal of **AppCosmos** is simple yet ambitious: **to design the GeekHaven app from scratch, covering ideation, user research, UI/UX design, and high-fidelity prototyping** 🎯. Every decision here is driven by real student needs and the culture of a thriving tech society.
+The goal of **AppCosmos** is simple yet ambitious: **to design the GeekHaven app from scratch, covering ideation, user research, UI/UX design, and high-fidelity prototyping**. Every decision here is driven by real student needs and the culture of a thriving tech society.
 
 AppCosmos serves as a creative space for designers and developers to collaborate transforming concepts into structured flows, wireframes into polished screens, and ideas into meaningful user experiences. It reflects how real-world products are built, step by step.
 
@@ -15,7 +15,7 @@ In today’s digital world, technology alone isn’t enough—**clarity, usabili
 
 ### **Do you want to be part of a team that designs an app representing the innovation and spirit of GeekHaven—from zero to prototype?** 
 
-Welcome to **AppCosmos**—let’s design the universe together.
+Welcome to **AppCosmos** let’s design the universe together.
 
 ## ✒Tech Stack:
 
